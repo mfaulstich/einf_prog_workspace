@@ -2,7 +2,7 @@
 
 #### 4.1. Buchstaben und Ziffern in einem Text abzählen
 
-* Geben ist das folgende Beispielskript in welchem ein Text eingelesen, ausgegeben und die Anzahl der Klein- und Großbuchstaben ermittelt wird.<br>Überprüfen Sie dessen Funktionsweise !
+* Geben ist das folgende Beispielskript in welchem ein Text eingelesen, ausgegeben und die Anzahl der Klein- und Großbuchstaben ermittelt wird.<br>Überprüfen Sie dessen Funktionsweise!
 * Erweitern Sie das Programm so, daß auch Ziffern abgezählt werden können (Testfunktion: isdigit()).
 * Ändern Sie das Programm nun so, daß die Unterscheidung zwischen Klein- und Großbuchstaben
 entfällt und nur Buchstaben (Testfunktion: isalpha()) und Ziffern abgezählt werden. 
